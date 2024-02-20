@@ -1,0 +1,1 @@
+The algorithm presented here generates nurse schedules while adhering to regulations and maximizing adherence to submitted preferences. It operates by assigning each nurse one shift at a time, employing a probabilistic approach to ensure maximum fairness.
